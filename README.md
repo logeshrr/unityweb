@@ -1,2 +1,2 @@
-man
-Integer value: 10
+11
+my age is: 10
