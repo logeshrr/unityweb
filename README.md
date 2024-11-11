@@ -1,1 +1,1 @@
-my name is log
+2000 rupees
