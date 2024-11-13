@@ -37,3 +37,41 @@ Question 7: Monetize - Answer: One-time purchase
 
 *****User Details Report   1 End*****
 
+
+*****User Details Report  1*****
+
+Date: 13-11-2024 
+
+Time: 15:34:45
+
+Name: logesh
+
+  Email: log@gmail.com
+
+Message: no thanks
+
+
+ user selections :    
+Question 1: Platforms - Answer: MOBILE
+
+	Question 2: Target - Answer: 3+age
+
+	Question 3: Genre - Answer: Role-Playing (RPG) 
+
+
+Question 4: Graphic style - Answer: Pixel art 
+
+	Question 5: Player - Answer: Turn based multiplayer (online)
+
+	Question 6: Services - Answer: Store release support
+
+
+Question 7: Monetize - Answer: Free-to-play
+
+	Question 8: Analytics - Answer: In-game behavior
+
+	Question 9: project duration  - Answer:  Not important
+
+
+*****User Details Report   1 End*****
+
