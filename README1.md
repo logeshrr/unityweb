@@ -255,3 +255,32 @@ Question 7:  Free-to-play
 
 
 *****User Detail Report End*****
+
+*****User Details Report (User 1)*****
+
+Date: 13-11-2024 
+
+Time: 13:42:32
+
+Name: logesh
+
+  Email: log@gmail.com
+
+Message: details 
+
+
+ user selections :    
+Question 1:  MOBILE     
+	Question 2:  3+age     
+	Question 3:  Action/Adventure     
+
+Question 4:  Stylized      
+	Question 5:   Multiplayer (Online)      
+	Question 6:  Leaderboard      
+
+Question 7:  Free-to-play     
+	Question 8:  In-game behavior     
+	Question 9:  Somewhat importan     
+
+
+*****User Detail Report End*****
