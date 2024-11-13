@@ -107,3 +107,27 @@ Question 5:            	 Store release support
 Question 6:            	 One-time purchase
 Question 7:            	 Player engagement
 Question 8:            	 Very important
+
+*****User Details (User 1)*****
+
+Date: 13-11-2024 
+
+Time: 13:22:35
+
+Name: 
+
+  Email: 
+
+Message: 
+
+
+ user selections :    
+Question 1:            	 MOBILE
+Question 2:            	 MOBILE (2)
+Question 3:            	 Role-Playing (RPG) 
+Question 4:            	 Stylized 
+Question 5:            	  Multiplayer (Online) 
+Question 6:            	 Leaderboard 
+Question 7:            	 Free-to-play
+Question 8:            	 In-game behavior
+Question 9:            	 Somewhat importan
