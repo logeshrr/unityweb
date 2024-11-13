@@ -83,3 +83,27 @@ Question 5:            	 Store release support1
 Question 6:            	 One-time purchase1
 Question 7:            	 Player engagement1
 Question 8:            	 Very important1
+
+*****User Details (User 1)*****
+
+Date: 13-11-2024 
+
+Time: 13:20:48
+
+Name: 
+
+  Email: 
+
+Message: 
+
+
+ user selections :    
+Question 0:            	 MOBILE
+Question 1:            	 MOBILE (2)
+Question 2:            	 Action/Adventure
+Question 3:            	 Realistic graphics 
+Question 4:            	 Single-player
+Question 5:            	 Store release support
+Question 6:            	 One-time purchase
+Question 7:            	 Player engagement
+Question 8:            	 Very important
