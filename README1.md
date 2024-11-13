@@ -35,3 +35,27 @@ Question 6: 	 Store release support1
 Question 7: 	 One-time purchase1
 Question 8: 	 Player engagement1
 Question 9: 	 1
+
+*****User Details (User 1)*****
+
+Date: 13-11-2024 
+
+Time: 13:16:44
+
+Name: log
+
+  Email: f
+
+Message: fff
+
+
+ user selections :    
+Question 1:            	 MOBILE1
+Question 2:            	 MOBILE (2)1
+Question 3:            	  First-Person Shooter (FPS) 1
+Question 4:            	 Pixel art 1
+Question 5:            	 Turn based multiplayer (online)1
+Question 6:            	 InApp Purchases1
+Question 7:            	  Subscription-based 1
+Question 8:            	 Monetization data1
+Question 9:            	  Not important1
