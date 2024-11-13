@@ -260,3 +260,39 @@ Question 9: project duration  - Answer:  Not important
 
 *****User Details Report   1 End*****
 
+
+*****User Details Report  1*****
+
+Date: 13-11-2024 
+
+Time: 15:59:22
+
+Name: log
+
+  Email: log@
+
+Message: 1234
+
+
+<b> USER SELECTIONS </b></color>
+
+Question 1: Platforms - Answer: MOBILE
+
+Question 2: Target - Answer: 7+age
+
+Question 3: Genre - Answer: Role-Playing (RPG) 
+
+Question 4: Graphic style - Answer: Stylized 
+
+Question 5: Player - Answer:  Multiplayer (Online) 
+
+Question 6: Services - Answer: Store release support
+
+Question 7: Monetize - Answer: Free-to-play
+
+Question 8: Analytics - Answer: In-game behavior
+
+Question 9: project duration  - Answer: Somewhat importan
+
+*****User Details Report   1 End*****
+
