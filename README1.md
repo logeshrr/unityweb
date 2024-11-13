@@ -131,3 +131,29 @@ Question 6:            	 Leaderboard
 Question 7:            	 Free-to-play
 Question 8:            	 In-game behavior
 Question 9:            	 Somewhat importan
+
+*****User Details (User 1)*****
+
+Date: 13-11-2024 
+
+Time: 13:25:24
+
+Name: 
+
+  Email: 
+
+Message: 
+
+
+ user selections :    
+Question 1:            	 MOBILE
+Question 2:            	 MOBILE (1)
+Question 3:            	 Action/Adventure
+Question 4:            	 Stylized 
+Question 5:            	  Multiplayer (Online) 
+Question 6:            	 Leaderboard 
+Question 7:            	 Free-to-play
+Question 8:            	 In-game behavior
+Question 9:            	 Somewhat importan
+
+*****User Detail Report End*****
