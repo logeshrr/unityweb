@@ -197,3 +197,32 @@ Question 4: 	 Realistic graphics 	Question 5: 	 Single-player	Question 6: 	 Stor
 Question 7: 	 Free-to-play	Question 8: 	 In-game behavior	Question 9: 	 
 
 *****User Detail Report End*****
+
+*****User Details Report (User 1)*****
+
+Date: 13-11-2024 
+
+Time: 13:36:38
+
+Name: 
+
+  Email: 
+
+Message: 
+
+
+ user selections :    
+Question 1:  MOBILE
+	Question 2:  MOBILE (2)
+	Question 3:  Role-Playing (RPG) 
+
+Question 4:  Stylized 
+	Question 5:   Multiplayer (Online) 
+	Question 6:  Leaderboard 
+
+Question 7:  Free-to-play
+	Question 8:  In-game behavior
+	Question 9:  Somewhat importan
+
+
+*****User Detail Report End*****
