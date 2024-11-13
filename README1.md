@@ -185,3 +185,42 @@ Question 9: project duration  - Answer: Somewhat importan
 
 *****User Details Report   1 End*****
 
+
+*****User Details Report  1*****
+
+Date: 13-11-2024 
+
+Time: 15:45:15
+
+Name: 
+
+  Email: 
+
+Message: 
+
+
+$***** USER SELECTIONS *****
+
+
+<b> USER SELECTIONS </b></color>
+
+Question 1: Platforms - Answer: MOBILE
+
+Question 2: Target - Answer: 7+age
+
+Question 3: Genre - Answer: Role-Playing (RPG) 
+
+Question 4: Graphic style - Answer: Stylized 
+
+Question 5: Player - Answer:  Multiplayer (Online) 
+
+Question 6: Services - Answer: Leaderboard 
+
+Question 7: Monetize - Answer: Free-to-play
+
+Question 8: Analytics - Answer: In-game behavior
+
+Question 9: project duration  - Answer: Somewhat importan
+
+*****User Details Report   1 End*****
+
