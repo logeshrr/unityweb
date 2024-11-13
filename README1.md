@@ -157,3 +157,23 @@ Question 8:            	 In-game behavior
 Question 9:            	 Somewhat importan
 
 *****User Detail Report End*****
+
+*****User Details (User 1)*****
+
+Date: 13-11-2024 
+
+Time: 13:29:30
+
+Name: 
+
+  Email: 
+
+Message: 
+
+
+ user selections :    
+Question 1: 	 MOBILE	Question 2: 	 MOBILE (1)	Question 3: 	 Action/Adventure
+Question 4: 	 Realistic graphics 	Question 5: 	 Single-player	Question 6: 	 Store release support
+Question 7: 	 One-time purchase	Question 8: 	 Player engagement	Question 9: 	 Very important
+
+*****User Detail Report End*****
