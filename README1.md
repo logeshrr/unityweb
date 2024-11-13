@@ -59,3 +59,27 @@ Question 6:            	 InApp Purchases1
 Question 7:            	  Subscription-based 1
 Question 8:            	 Monetization data1
 Question 9:            	  Not important1
+
+*****User Details (User 1)*****
+
+Date: 13-11-2024 
+
+Time: 13:18:53
+
+Name: as
+
+  Email: as
+
+Message: as
+
+
+ user selections :    
+Question 0:            	 MOBILE1
+Question 1:            	 MOBILE (1)1
+Question 2:            	 Action/Adventure1
+Question 3:            	 Realistic graphics 1
+Question 4:            	 Single-player1
+Question 5:            	 Store release support1
+Question 6:            	 One-time purchase1
+Question 7:            	 Player engagement1
+Question 8:            	 Very important1
