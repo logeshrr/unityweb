@@ -296,3 +296,38 @@ Question 9: project duration  - Answer: Somewhat importan
 
 *****User Details Report   1 End*****
 
+
+***** Report  1*****
+
+Date: 13-11-2024 
+
+Time: 16:22:06
+
+Name: 
+
+  Email: 
+
+Message: 
+
+
+<b> USER SELECTIONS </b>
+
+ 1: Platforms - : MOBILE
+
+ 2: Target - : 3+age
+
+ 3: Genre - : Action/Adventure
+
+ 4: Graphic style - : Stylized 
+
+ 5: Player - :  Multiplayer (Online) 
+
+ 6: Services - : Leaderboard 
+
+ 7: Monetize - : Free-to-play
+
+ 8: Analytics - : Monetization data
+
+ 9: project duration  - : Somewhat importan
+
+__________________________________
