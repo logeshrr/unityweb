@@ -331,3 +331,38 @@ Message:
  9: project duration  - : Somewhat importan
 
 __________________________________
+
+***** Report  1*****
+
+Date: 14-11-2024 
+
+Time: 11:59:14
+
+<b> Name:  </b>
+
+ <b> Email: </b> 
+
+ <b> Message: </b> 
+
+
+<b> USER SELECTIONS </b>
+
+ 1: Platforms - : mobile
+
+ 2: Platforms - : desktop
+
+ 3: Platforms - : console
+
+ 4: Platforms - : console
+
+ 5: Platforms - : desktop
+
+ 6: Platforms - : mobile
+
+ 7: Platforms - : virtual reality
+
+ 8: Platforms - : desktop
+
+ 9: Platforms - : desktop
+
+__________________________________
