@@ -401,3 +401,38 @@ Time: 12:22:59
  9: Platforms - :  1 month
 
 __________________________________
+
+***** Report  1*****
+
+Date: 15-11-2024 
+
+Time: 12:46:33
+
+<b> Name:  </b>1
+
+ <b> Email: </b> 1
+
+ <b> Message: </b> 1
+
+
+<b> SELECTIONS </b>
+
+ 1: Platforms - : mobile
+
+ 2: Platforms - :  3+
+
+ 3: Platforms - :  Action/Adventure
+
+ 4: Platforms - : Realistic graphics
+
+ 5: Platforms - : Single-player
+
+ 6: Platforms - : Social Media Integration
+
+ 7: Platforms - : One-time purchase
+
+ 8: Platforms - : Player engagement
+
+ 9: Platforms - :  1 month
+
+__________________________________
