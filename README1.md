@@ -366,3 +366,38 @@ Time: 11:59:14
  9: Platforms - : desktop
 
 __________________________________
+
+***** Report  1*****
+
+Date: 15-11-2024 
+
+Time: 12:22:59
+
+<b> Name:  </b>wrer
+
+ <b> Email: </b> err
+
+ <b> Message: </b> ewrerw
+
+
+<b> SELECTIONS </b>
+
+ 1: Platforms - : mobile
+
+ 2: Platforms - :  3+
+
+ 3: Platforms - :  Action/Adventure
+
+ 4: Platforms - : Stylized
+
+ 5: Platforms - : Co-op
+
+ 6: Platforms - : Leaderboard
+
+ 7: Platforms - :  Free-to-play
+
+ 8: Platforms - : ) In-game behavio
+
+ 9: Platforms - :  1 month
+
+__________________________________
