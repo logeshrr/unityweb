@@ -436,3 +436,38 @@ Time: 12:46:33
  9: Platforms - :  1 month
 
 __________________________________
+
+***** Report  1*****
+
+Date: 18-11-2024 
+
+Time: 10:14:15
+
+<b> Name:  </b>
+
+ <b> Email: </b> 
+
+ <b> Message: </b> 
+
+
+<b> SELECTIONS </b>
+
+ 1: Platforms - : mobile
+
+ 2: Platforms - : 12+
+
+ 3: Platforms - :  Action/Adventure (1)
+
+ 4: Platforms - : Realistic graphics
+
+ 5: Platforms - : Single-player
+
+ 6: Platforms - : InApp Purchases
+
+ 7: Platforms - : Ads with in-game
+
+ 8: Platforms - : ) In-game behavio
+
+ 9: Platforms - : More 
+
+__________________________________
