@@ -471,3 +471,38 @@ Time: 10:14:15
  9: Platforms - : More 
 
 __________________________________
+
+***** Report  1*****
+
+Date: 18-11-2024 
+
+Time: 18:43:59
+
+<b> Name:  </b>
+
+ <b> Email: </b> 
+
+ <b> Message: </b> 
+
+
+<b> SELECTIONS </b>
+
+ 1: Platforms - : desktop
+
+ 2: Platforms - : 12+
+
+ 3: Platforms - :  Action/Adventure (1)
+
+ 4: Platforms - : Realistic graphics
+
+ 5: Platforms - : Turn based multiplayer
+
+ 6: Platforms - : Ads Integration
+
+ 7: Platforms - :  Free-to-play
+
+ 8: Platforms - :  In-game behavio
+
+ 9: Platforms - : 1-3 month
+
+__________________________________
