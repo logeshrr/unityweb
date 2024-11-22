@@ -611,3 +611,38 @@ Time: 17:08:11
  9: Platforms - : 1-3 month
 
 __________________________________
+
+***** Report  1*****
+
+Date: 22-11-2024 
+
+Time: 17:30:33
+
+<b> Name:  </b>logesh1
+
+ <b> Email: </b> live
+
+ <b> Message: </b> live
+
+
+<b> SELECTIONS </b>
+
+ 1: Platforms - : desktop
+
+ 2: Platforms - : 7+
+
+ 3: Platforms - : Role-Playing 
+
+ 4: Platforms - : Stylized
+
+ 5: Platforms - : Co-op
+
+ 6: Platforms - : InApp Purchases
+
+ 7: Platforms - :  Free-to-play
+
+ 8: Platforms - : Monetization data
+
+ 9: Platforms - : 
+
+__________________________________
