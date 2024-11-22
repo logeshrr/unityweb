@@ -786,3 +786,38 @@ Time: 17:51:05
  9: Platforms - : 3-6 months
 
 __________________________________
+
+***** Report  1*****
+
+Date: 22-11-2024 
+
+Time: 17:57:12
+
+<b> Name:  </b>1
+
+ <b> Email: </b> 1
+
+ <b> Message: </b> 1
+
+
+<b> SELECTIONS </b>
+
+ 1: Platforms - : console
+
+ 2: Platforms - : 12+
+
+ 3: Platforms - :  First-Person Shooter
+
+ 4: Platforms - :  Pixel art
+
+ 5: Platforms - : Turn based multiplayer
+
+ 6: Platforms - : InApp Purchases
+
+ 7: Platforms - :  Subscription-based
+
+ 8: Platforms - : Monetization data
+
+ 9: Platforms - : 
+
+__________________________________
