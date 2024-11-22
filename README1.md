@@ -646,3 +646,38 @@ Time: 17:30:33
  9: Platforms - : 
 
 __________________________________
+
+***** Report  1*****
+
+Date: 22-11-2024 
+
+Time: 17:31:55
+
+<b> Name:  </b>
+
+ <b> Email: </b> 
+
+ <b> Message: </b> 
+
+
+<b> SELECTIONS </b>
+
+ 1: Platforms - : console
+
+ 2: Platforms - : 12+
+
+ 3: Platforms - :  First-Person Shooter
+
+ 4: Platforms - :  Pixel art
+
+ 5: Platforms - : Turn based multiplayer
+
+ 6: Platforms - : InApp Purchases
+
+ 7: Platforms - :  Subscription-based
+
+ 8: Platforms - : Monetization data
+
+ 9: Platforms - : 
+
+__________________________________
