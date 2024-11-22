@@ -856,3 +856,38 @@ Time: 18:01:06
  9: Platforms - : 3-6 months
 
 __________________________________
+
+***** Report  1*****
+
+Date: 22-11-2024 
+
+Time: 18:17:51
+
+<b> Name:  </b>12
+
+ <b> Email: </b> 12
+
+ <b> Message: </b> 12
+
+
+<b> SELECTIONS </b>
+
+ 1: Platforms - : desktop
+
+ 2: Platforms - : 12+
+
+ 3: Platforms - :  First-Person Shooter
+
+ 4: Platforms - : Stylized
+
+ 5: Platforms - : Turn based multiplayer
+
+ 6: Platforms - : Social Media Integration
+
+ 7: Platforms - :  Subscription-based
+
+ 8: Platforms - : Monetization data
+
+ 9: Platforms - : 3-6 months
+
+__________________________________
