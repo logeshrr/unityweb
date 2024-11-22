@@ -541,3 +541,38 @@ Time: 17:11:06
  9: Platforms - :  1 month
 
 __________________________________
+
+***** Report  1*****
+
+Date: 22-11-2024 
+
+Time: 16:44:01
+
+<b> Name:  </b>
+
+ <b> Email: </b> 
+
+ <b> Message: </b> 
+
+
+<b> SELECTIONS </b>
+
+ 1: Platforms - : desktop
+
+ 2: Platforms - : 7+
+
+ 3: Platforms - : Role-Playing 
+
+ 4: Platforms - : Stylized
+
+ 5: Platforms - : Co-op
+
+ 6: Platforms - : Leaderboard
+
+ 7: Platforms - :  Free-to-play
+
+ 8: Platforms - :  In-game behavio
+
+ 9: Platforms - : 1-3 month
+
+__________________________________
