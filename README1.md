@@ -891,3 +891,38 @@ Time: 18:17:51
  9: Platforms - : 3-6 months
 
 __________________________________
+
+***** Report  1*****
+
+Date: 22-11-2024 
+
+Time: 18:32:02
+
+<b> Name:  </b>first github submit
+
+ <b> Email: </b> llog@gmail.com
+
+ <b> Message: </b> thanks
+
+
+<b> SELECTIONS </b>
+
+ 1: Platforms - : desktop
+
+ 2: Platforms - : 7+
+
+ 3: Platforms - : Role-Playing 
+
+ 4: Platforms - : Stylized
+
+ 5: Platforms - : Turn based multiplayer
+
+ 6: Platforms - : InApp Purchases
+
+ 7: Platforms - :  Subscription-based
+
+ 8: Platforms - : Monetization data
+
+ 9: Platforms - : 3-6 months
+
+__________________________________
