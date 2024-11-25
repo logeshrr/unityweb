@@ -926,3 +926,38 @@ Time: 18:32:02
  9: Platforms - : 3-6 months
 
 __________________________________
+
+***** Report  1*****
+
+Date: 25-11-2024 
+
+Time: 14:27:49
+
+<b> Name:  </b>
+
+ <b> Email: </b> 
+
+ <b> Message: </b> 
+
+
+<b> SELECTIONS </b>
+
+ 1: Platforms - : mobile
+
+ 2: Platforms - : 7+
+
+ 3: Platforms - : Role-Playing 
+
+ 4: Platforms - :  Pixel art
+
+ 5: Platforms - : Single-player
+
+ 6: Platforms - : Social Media Integration
+
+ 7: Platforms - :  Subscription-based
+
+ 8: Platforms - :  In-game behavio
+
+ 9: Platforms - : 3-6 months
+
+__________________________________
