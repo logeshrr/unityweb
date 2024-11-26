@@ -1031,3 +1031,38 @@ Time: 15:28:17
  9: Platforms - : Leaderboard
 
 __________________________________
+
+***** Report  1*****
+
+Date: 26-11-2024 
+
+Time: 15:58:52
+
+<b> Name:  </b>
+
+ <b> Email: </b> 
+
+ <b> Message: </b> 
+
+
+<b> SELECTIONS </b>
+
+ 1: Platforms - : mobile
+
+ 2: Platforms - : 12+
+
+ 3: Platforms - :  First-Person Shooter
+
+ 4: Platforms - :  Pixel art
+
+ 5: Platforms - : Turn based multiplayer
+
+ 6: Platforms - :  Subscription-based
+
+ 7: Platforms - :  1 month
+
+ 8: Platforms - : None
+
+ 9: Platforms - : 
+
+__________________________________
