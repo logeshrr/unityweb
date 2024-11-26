@@ -996,3 +996,38 @@ Time: 15:22:15
  9: Platforms - : 3-6 months
 
 __________________________________
+
+***** Report  1*****
+
+Date: 26-11-2024 
+
+Time: 15:28:17
+
+<b> Name:  </b>
+
+ <b> Email: </b> 
+
+ <b> Message: </b> 
+
+
+<b> SELECTIONS </b>
+
+ 1: Platforms - : web
+
+ 2: Platforms - : 7+
+
+ 3: Platforms - : Role-Playing 
+
+ 4: Platforms - : Stylized
+
+ 5: Platforms - : Co-op
+
+ 6: Platforms - :  Free-to-play
+
+ 7: Platforms - : 1-3 month
+
+ 8: Platforms - :  In-game behavio
+
+ 9: Platforms - : Leaderboard
+
+__________________________________
