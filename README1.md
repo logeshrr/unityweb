@@ -1101,3 +1101,38 @@ Time: 16:12:07
  9: Platforms - : Leaderboard,InApp Purchases
 
 __________________________________
+
+***** Report  1*****
+
+Date: 26-11-2024 
+
+Time: 16:15:48
+
+<b> Name:  </b>
+
+ <b> Email: </b> 
+
+ <b> Message: </b> 
+
+
+<b> SELECTIONS </b>
+
+ 1: Platforms - : web
+
+ 2: Platforms - : 12+
+
+ 3: Platforms - :  First-Person Shooter
+
+ 4: Platforms - :  Pixel art
+
+ 5: Platforms - : Turn based multiplayer
+
+ 6: Platforms - :  Subscription-based
+
+ 7: Platforms - : 3-6 months
+
+ 8: Platforms - :  In-game behavio,Player engagement,None
+
+ 9: Platforms - : Leaderboard,Social Media Integration
+
+__________________________________
