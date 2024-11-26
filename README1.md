@@ -1206,3 +1206,38 @@ Time: 16:42:10
  9: Platforms - : InApp Purchases
 
 __________________________________
+
+***** Report  1*****
+
+Date: 26-11-2024 
+
+Time: 16:43:07
+
+<b> Name:  </b>
+
+ <b> Email: </b> 
+
+ <b> Message: </b> 
+
+
+<b> SELECTIONS </b>
+
+ 1: Platforms - : mobile
+
+ 2: Platforms - : 7+
+
+ 3: Platforms - : Role-Playing 
+
+ 4: Platforms - : Stylized
+
+ 5: Platforms - : Turn based multiplayer
+
+ 6: Platforms - :  Subscription-based
+
+ 7: Platforms - : 3-6 months
+
+ 8: Platforms - :  In-game behavio,Player engagement
+
+ 9: Platforms - : Leaderboard,InApp Purchases,Enemy AI
+
+__________________________________
