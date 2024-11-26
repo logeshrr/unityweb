@@ -1171,3 +1171,38 @@ Time: 16:30:00
  9: Platforms - : Social Media Integration,Leaderboard,InApp Purchases,Daily Rewards,Ads Integration
 
 __________________________________
+
+***** Report  1*****
+
+Date: 26-11-2024 
+
+Time: 16:42:10
+
+<b> Name:  </b>
+
+ <b> Email: </b> 
+
+ <b> Message: </b> 
+
+
+<b> SELECTIONS </b>
+
+ 1: Platforms - : web
+
+ 2: Platforms - : 12+
+
+ 3: Platforms - :  First-Person Shooter
+
+ 4: Platforms - :  Pixel art
+
+ 5: Platforms - : Turn based multiplayer
+
+ 6: Platforms - :  Subscription-based
+
+ 7: Platforms - : 3-6 months
+
+ 8: Platforms - : Monetization data
+
+ 9: Platforms - : InApp Purchases
+
+__________________________________
