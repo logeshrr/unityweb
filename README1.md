@@ -132,3 +132,38 @@ Time: 13:34:52
  9: Platforms - : Social Media Integration,Leaderboard,Ads Integration,Enemy AI
 
 __________________________________
+
+***** Report  1*****
+
+Date: 27-11-2024 
+
+Time: 14:02:30
+
+<b> Name:  </b>aa
+
+ <b> Email: </b> alfin@xminds.com
+
+ <b> Message: </b> ssss
+
+
+<b> SELECTIONS </b>
+
+ 1: Platforms - : desktop
+
+ 2: Platforms - : 7+
+
+ 3: Platforms - : Role-Playing 
+
+ 4: Platforms - : Stylized
+
+ 5: Platforms - : Co-op
+
+ 6: Platforms - : Leaderboard
+
+ 7: Platforms - :  Free-to-play
+
+ 8: Platforms - :  In-game behavio
+
+ 9: Platforms - : 1-3 month
+
+__________________________________
