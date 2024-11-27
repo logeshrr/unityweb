@@ -237,3 +237,38 @@ Time: 15:14:14
  9: Platforms - : InApp Purchases
 
 __________________________________
+
+***** Report  1*****
+
+Date: 27-11-2024 
+
+Time: 15:59:22
+
+<b> Name:  </b>git1
+
+ <b> Email: </b> git2
+
+ <b> Message: </b> non
+
+
+<b> SELECTIONS </b>
+
+ 1: Platforms - : desktop
+
+ 2: Platforms - : 7+
+
+ 3: Platforms - :  First-Person Shooter
+
+ 4: Platforms - : Stylized
+
+ 5: Platforms - : Co-op
+
+ 6: Platforms - :  Subscription-based
+
+ 7: Platforms - : 1-3 month
+
+ 8: Platforms - : Monetization data, In-game behavio,Player engagement,None
+
+ 9: Platforms - : Leaderboard,InApp Purchases,Enemy AI
+
+__________________________________
