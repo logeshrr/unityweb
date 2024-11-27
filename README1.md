@@ -167,3 +167,38 @@ Time: 14:02:30
  9: Platforms - : 1-3 month
 
 __________________________________
+
+***** Report  1*****
+
+Date: 27-11-2024 
+
+Time: 15:01:49
+
+<b> Name:  </b>logesh
+
+ <b> Email: </b> logesh
+
+ <b> Message: </b> wht
+
+
+<b> SELECTIONS </b>
+
+ 1: Platforms - : web
+
+ 2: Platforms - : 12+
+
+ 3: Platforms - :  First-Person Shooter
+
+ 4: Platforms - : Stylized
+
+ 5: Platforms - : Turn based multiplayer
+
+ 6: Platforms - :  Subscription-based
+
+ 7: Platforms - : 3-6 months
+
+ 8: Platforms - : Monetization data
+
+ 9: Platforms - : InApp Purchases
+
+__________________________________
