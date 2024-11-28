@@ -272,3 +272,38 @@ Time: 15:59:22
  9: Platforms - : Leaderboard,InApp Purchases,Enemy AI
 
 __________________________________
+
+***** Report  1*****
+
+Date: 28-11-2024 
+
+Time: 13:28:00
+
+<b> Name:  </b>
+
+ <b> Email: </b> 
+
+ <b> Message: </b> 
+
+
+<b> SELECTIONS </b>
+
+ 1: Platforms - : desktop
+
+ 2: Platforms - : 7+
+
+ 3: Platforms - : Role-Playing 
+
+ 4: Platforms - :  Pixel art
+
+ 5: Platforms - : Turn based multiplayer
+
+ 6: Platforms - :  Subscription-based
+
+ 7: Platforms - : 1-3 month
+
+ 8: Platforms - : Monetization data, In-game behavio,Player engagement,None
+
+ 9: Platforms - : InApp Purchases,Leaderboard,Social Media Integration,Daily Rewards,Ads Integration,Enemy AI
+
+__________________________________
