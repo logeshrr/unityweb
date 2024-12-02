@@ -447,3 +447,38 @@ Time: 16:04:20
  9: Platforms - : 
 
 __________________________________
+
+***** Report  1*****
+
+Date: 02-12-2024 
+
+Time: 16:12:30
+
+<b> Name:  </b>
+
+ <b> Email: </b> 
+
+ <b> Message: </b> 
+
+
+<b> SELECTIONS </b>
+
+ 1: Platforms - : web
+
+ 2: Platforms - : 12+
+
+ 3: Platforms - :  First-Person Shooter
+
+ 4: Platforms - :  Pixel art
+
+ 5: Platforms - : Realtime action multiplayer
+
+ 6: Platforms - :  Subscription-based
+
+ 7: Platforms - : 3-6 months
+
+ 8: Platforms - : Monetization data
+
+ 9: Platforms - : 
+
+__________________________________
