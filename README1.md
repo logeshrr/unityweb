@@ -867,3 +867,38 @@ Time: 21:06:40
  9: Platforms - : Enemy AI,Ads Integration,Daily Rewards
 
 __________________________________
+
+***** Report  1*****
+
+Date: 03-12-2024 
+
+Time: 10:13:18
+
+<b> Name:  </b>Ajith2345234523452345234523452345234523452345234523523452345234523452
+
+ <b> Email: </b> ajith @a234523452345234523452345243523452345
+
+ <b> Message: </b> hi how are you asdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfas
+
+
+<b> SELECTIONS </b>
+
+ 1: Platforms - : desktop
+
+ 2: Platforms - : 18+
+
+ 3: Platforms - : Simulation
+
+ 4: Platforms - : realistic graphics
+
+ 5: Platforms - : Realtime action multiplayer
+
+ 6: Platforms - : One-time purchase
+
+ 7: Platforms - : More 
+
+ 8: Platforms - : Monetization data, In-game behavio,Player engagement
+
+ 9: Platforms - : Social Media Integration,Leaderboard,InApp Purchases,Daily Rewards,Ads Integration,Enemy AI
+
+__________________________________
