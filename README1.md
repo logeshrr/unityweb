@@ -937,3 +937,38 @@ Time: 10:34:29
  9: Services - : InApp Purchases
 
 __________________________________
+
+***** Report  1*****
+
+Date: 03-12-2024 
+
+Time: 12:14:46
+
+<b> Name:  </b>logesh ramesh
+
+ <b> Email: </b> logesh@gmail.com
+
+ <b> Message: </b> iam new to gaming i want done small project contact me 
+
+
+<b> SELECTIONS </b>
+
+ 1: Platforms - : Web
+
+ 2: Age group - : 12+ age
+
+ 3: Genre - :  Action/Adventure 
+
+ 4: Graphic style - :  Pixel art
+
+ 5: Player - : Turn based multiplayer
+
+ 6: Monetize - : One-time purchase
+
+ 7: Duration - : 12 - month & More 
+
+ 8: Analytics - : Monetization data
+
+ 9: Services - : InApp Purchases,Leaderboard
+
+__________________________________
