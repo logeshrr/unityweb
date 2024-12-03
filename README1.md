@@ -1007,3 +1007,40 @@ Time: 12:31:45
  9: Services - : InApp Purchases,Leaderboard,Ads Integration
 
 __________________________________
+
+***** Report  1*****
+
+Date: 03-12-2024 
+
+Time: 14:18:51
+
+<b> Name:  </b>
+
+ <b> Email: </b> 
+
+ <b> Message: </b> 
+
+
+<b> SELECTIONS </b>
+
+ 1: Platforms - : Web
+
+ 2: Age group - : 12+ age
+
+ 3: Genre - :  First-Person Shooter
+
+ 4: Graphic style - :  Pixel art
+
+ 5: Game mode - : Realtime  multiplayer
+
+ 6: Monetize - :  Subscription-based
+
+ 7: Duration - : 3-6 months
+
+ 8: Analytics - : Monetization data
+
+ 9: Services - : InApp Purchases
+
+ 10: Services - : Enemy AI,Ads Integration,Daily Rewards
+
+__________________________________
