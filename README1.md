@@ -972,3 +972,38 @@ Time: 12:14:46
  9: Services - : InApp Purchases,Leaderboard
 
 __________________________________
+
+***** Report  1*****
+
+Date: 03-12-2024 
+
+Time: 12:31:45
+
+<b> Name:  </b>logeh
+
+ <b> Email: </b> log@gmail.com
+
+ <b> Message: </b> hiii
+
+
+<b> SELECTIONS </b>
+
+ 1: Platforms - : Virtual reality
+
+ 2: Age group - : 12+ age
+
+ 3: Genre - :  First-Person Shooter
+
+ 4: Graphic style - : Retro
+
+ 5: Player - : Single-player
+
+ 6: Monetize - : Ads with in-game
+
+ 7: Duration - : 6-12 month
+
+ 8: Analytics - : None
+
+ 9: Services - : InApp Purchases,Leaderboard,Ads Integration
+
+__________________________________
