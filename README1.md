@@ -902,3 +902,38 @@ Time: 10:13:18
  9: Platforms - : Social Media Integration,Leaderboard,InApp Purchases,Daily Rewards,Ads Integration,Enemy AI
 
 __________________________________
+
+***** Report  1*****
+
+Date: 03-12-2024 
+
+Time: 10:34:29
+
+<b> Name:  </b>HI
+
+ <b> Email: </b> HI
+
+ <b> Message: </b> HHH
+
+
+<b> SELECTIONS </b>
+
+ 1: Platforms - :  Cross-platform
+
+ 2: Age group - :  3+ age
+
+ 3: Genre - :  First-Person Shooter
+
+ 4: Graphic style - :  Pixel art
+
+ 5: Player - : Realtime  multiplayer
+
+ 6: Monetize - :  Subscription-based
+
+ 7: Duration - : 3-6 months
+
+ 8: Analytics - : Monetization data
+
+ 9: Services - : InApp Purchases
+
+__________________________________
