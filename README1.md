@@ -54,3 +54,38 @@ Time: 10:45:51
  9: Services - : InApp Purchases
 
 __________________________________
+
+***** Report  1*****
+
+Date: 04-12-2024 
+
+Time: 12:03:34
+
+<b> Name:  </b>alfin
+
+ <b> Email: </b> alfin@xminds.com
+
+ <b> Message: </b> dss
+
+
+<b> SELECTIONS </b>
+
+ 1: Platforms - : Mobile
+
+ 2: Age group - : 7+ age
+
+ 3: Genre - : Role-Playing 
+
+ 4: Graphic style - : Stylized
+
+ 5: Game mode - : Co-op multiplayer
+
+ 6: Monetize - :  Subscription-based
+
+ 7: Duration - : 3-6 months
+
+ 8: Analytics - : Monetization data
+
+ 9: Services - : InApp Purchases
+
+__________________________________
