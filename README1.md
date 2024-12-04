@@ -1,6 +1,3 @@
-
-
-
 <b> SELECTIONS </b>
 
  1: Platforms - : Web
