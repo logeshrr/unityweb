@@ -89,3 +89,38 @@ Time: 12:03:34
  9: Services - : InApp Purchases
 
 __________________________________
+
+***** Report  1*****
+
+Date: 04-12-2024 
+
+Time: 14:19:20
+
+<b> Name:  </b>
+
+ <b> Email: </b> 
+
+ <b> Message: </b> 
+
+
+<b> SELECTIONS </b>
+
+ 1: Platforms - : Mobile
+
+ 2: Age group - : 7+ age
+
+ 3: Genre - :  First-Person Shooter
+
+ 4: Graphic style - :  Pixel art
+
+ 5: Game mode - : Realtime  multiplayer
+
+ 6: Monetize - :  Free-to-play
+
+ 7: Duration - : 3-6 months
+
+ 8: Analytics - : Player engagement, In-game behavior,Monetization data
+
+ 9: Services - : Social Media Integration,Leaderboard,InApp Purchases
+
+__________________________________
