@@ -1044,3 +1044,38 @@ Time: 14:18:51
  10: Services - : Enemy AI,Ads Integration,Daily Rewards
 
 __________________________________
+
+***** Report  1*****
+
+Date: 04-12-2024 
+
+Time: 10:31:54
+
+<b> Name:  </b>Adharsh
+
+ <b> Email: </b> aasdf@sdfgsdfgsdfgsdfgsdf
+
+ <b> Message: </b> aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
+
+<b> SELECTIONS </b>
+
+ 1: Platforms - : Desktop
+
+ 2: Age group - : 16+ age
+
+ 3: Genre - : Role-Playing 
+
+ 4: Graphic style - : Realistic graphics
+
+ 5: Game mode - : Single-player
+
+ 6: Monetize - : One-time purchase
+
+ 7: Duration - : 1-3 month
+
+ 8: Analytics - :  In-game behavior
+
+ 9: Services - : Social Media Integration,Leaderboard,InApp Purchases,Daily Rewards,Ads Integration
+
+__________________________________
